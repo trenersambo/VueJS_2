@@ -1,9 +1,19 @@
-# VueJS_2 Урок№1
-Дата урока: 
-Преподаватель:
-Тема изучения: 
+# app5
 
-Д/задания: 
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-С 23.05.22 по 25.06.22 изучение VueJS в GeekBrains
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
