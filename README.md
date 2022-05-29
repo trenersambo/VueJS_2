@@ -19,5 +19,5 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Примерное изображение того что получилось через 3 дня:
-![калькулятор на VueJS]([https://github.com/trenersambo/VueJS_2/blob/lession_1/src/assets/imgCalculator.png])
+![калькулятор на VueJS](src/assets/imgCalculator.png)
 
